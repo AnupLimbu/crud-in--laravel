@@ -1,0 +1,17 @@
+.nav-active{
+    transition: .2s;
+}
+.nav-active:hover{
+    font-weight: bold;
+}
+.container{
+    margin-top: 5rem;
+}
+.card{
+    margin: 1rem;
+    transition: .3s;
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: rgb(56, 55, 55) 2px 2px 2px 2px ;
+}
